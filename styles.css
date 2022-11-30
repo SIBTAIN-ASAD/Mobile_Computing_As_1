@@ -8,7 +8,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
+    min-height: 200vh;
     background: #f13434;
 }
 .container{
@@ -23,8 +23,8 @@ body{
     position: absolute;
     top: 0;
     left: -50%;
-    width: 100%;
-    height: 100%;
+    width: 200%;
+    height: 200%;
     background: linear-gradient(-45deg, #ffb8ad, #fa9292);
     z-index: 6;
     transform: translateX(100%);
